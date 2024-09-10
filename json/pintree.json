@@ -2435,17 +2435,17 @@
       },
       {
         "type": "link",
+        "addDate": 1725959592145,
+        "title": "Nav",
+        "icon": "https://logo.clearbit.com/nav1.netlify.app",
+        "url": "https://nav1.netlify.app/"
+      },
+      {
+        "type": "link",
         "addDate": 1725958875369,
         "title": "rss首页 · Othing",
         "icon": "https://logo.clearbit.com/rss.othing.xyz",
         "url": "https://rss.othing.xyz/i/"
-      },
-      {
-        "type": "link",
-        "addDate": 1725958886546,
-        "title": "NGA玩家社区",
-        "icon": "https://logo.clearbit.com/bbs.nga.cn",
-        "url": "https://bbs.nga.cn/"
       },
       {
         "type": "link",
@@ -2463,13 +2463,6 @@
       },
       {
         "type": "link",
-        "addDate": 1725958903985,
-        "title": "Memos",
-        "icon": "https://logo.clearbit.com/memos.serv00.net",
-        "url": "https://memos.serv00.net/"
-      },
-      {
-        "type": "link",
         "addDate": 1725958907364,
         "title": "GitHub",
         "icon": "https://logo.clearbit.com/github.com",
@@ -2477,10 +2470,31 @@
       },
       {
         "type": "link",
+        "addDate": 1725958886546,
+        "title": "NGA玩家社区",
+        "icon": "https://logo.clearbit.com/bbs.nga.cn",
+        "url": "https://bbs.nga.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1725958921094,
+        "title": "卡饭论坛_最好的软件论坛_讨论 - 互助分享 - 大气谦和!",
+        "icon": "https://logo.clearbit.com/bbs.kafan.cn",
+        "url": "https://bbs.kafan.cn/"
+      },
+      {
+        "type": "link",
         "addDate": 1725958910377,
         "title": "md5加密-帮小忙，腾讯QQ浏览器在线工具箱",
         "icon": "https://logo.clearbit.com/tool.browser.qq.com",
         "url": "https://tool.browser.qq.com/md5.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1725958903985,
+        "title": "Memos",
+        "icon": "https://logo.clearbit.com/memos.serv00.net",
+        "url": "https://memos.serv00.net/"
       },
       {
         "type": "link",
@@ -2495,13 +2509,6 @@
         "title": "Uptime Kuma",
         "icon": "https://logo.clearbit.com/upp.devs.us.kg",
         "url": "https://upp.devs.us.kg/dashboard"
-      },
-      {
-        "type": "link",
-        "addDate": 1725958921094,
-        "title": "卡饭论坛_最好的软件论坛_讨论 - 互助分享 - 大气谦和!",
-        "icon": "https://logo.clearbit.com/bbs.kafan.cn",
-        "url": "https://bbs.kafan.cn/"
       }
     ]
   },
